@@ -1,5 +1,5 @@
 # About me
-I've been in the exploiting community for 2 years now and have  <br>
+I've been in the exploiting community for 2+ years and have  <br>
 
 3 year(s) of UI Design <br>
 3 year(s) of Lua/LuaU <br>
