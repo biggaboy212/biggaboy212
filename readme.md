@@ -12,8 +12,8 @@
 
 ## Projects
 
-• Cascade
+• [Cascade](https://v3rm.net/threads/cascade-ui-library.17657/)
 
-• Maclib
+• [Maclib](https://github.com/biggaboy212/Maclib)
 
-• RIOT V2
+• [RIOT V2](https://getriot.cc/)
