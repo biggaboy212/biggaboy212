@@ -14,6 +14,6 @@
 
 • [Cascade](https://v3rm.net/threads/cascade-ui-library.17657/)
 
-• [Maclib](https://github.com/biggaboy212/Maclib)
+• [Myriad](https://github.com/Proton-Utilities/Myriad)
 
 • [RIOT V2](https://getriot.cc/)
