@@ -14,7 +14,7 @@
 
 ## Projects
 
-• [Cascade](https://v3rm.net/threads/cascade-ui-library.17657/)
+• [Cascade](https://github.com/biggaboy212/Cascade)
 
 • [Myriad](https://github.com/Proton-Utilities/Myriad)
 
