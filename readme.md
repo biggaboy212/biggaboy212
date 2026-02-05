@@ -6,16 +6,36 @@
 
 </div>
 
-## Skills
+## Skills/Interests
 
-• C#, C++, Lua, LuaU
+- Game & exploit development
+- Reverse engineering
+- Embedded VMs
+- Obfuscation techniques
+- Networking
 
-• UI/UX Designer
+### Languages
 
-## Projects
+[![My Skills](https://skillicons.dev/icons?i=lua,cs)](https://skillicons.dev)
 
-• [Cascade](https://github.com/biggaboy212/Cascade)
+#### Learning
 
-• [Myriad](https://github.com/Proton-Utilities/Myriad)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,)](https://skillicons.dev)
 
-• [RIOT V2](https://getriot.cc/)
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,robloxstudio)](https://skillicons.dev)
+
+## Notable OSS Projects
+
+### [Cascade](https://github.com/biggaboy212/Cascade)
+
+UI library framework
+
+### [Myriad](https://github.com/Proton-Utilities/Myriad)
+
+Executor general validity and mitigation test
+
+### [Marionette](https://github.com/biggaboy212/Marionette)
+
+A runtime Luau debugger and executor-IDE bridge
